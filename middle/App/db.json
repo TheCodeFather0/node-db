@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "Ramin",
+    "surname": "Mammadzada",
+    "rating": 22
+  },
+  {
+    "id": "1",
+    "name": "Aydan",
+    "surname": "Cavadzade",
+    "rating": 39
+  },
+  {
+    "id": "2",
+    "name": "Fidan",
+    "surname": "Musali",
+    "rating": 25
+  },
+  {
+    "id": "3",
+    "name": "Omar",
+    "surname": "Qalabakiyev",
+    "rating": 18
+  }
+]
